@@ -13,9 +13,9 @@ from langgraph.graph import StateGraph, END
 # -
 
 # Set API Keys
-os.environ["TAVILY_API_KEY"] = "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"
-os.environ["COHERE_API_KEY"] = "7gASb38xz7rJYESOJs0JunSLzfTgqHvbbav8tFiQ"
-os.environ["GOOGLE_API_KEY"] = "AIzaSyBtsj5HlYcv_c-TSa82jOMwXq5N2Xc1PNo"
+os.environ["TAVILY_API_KEY"] = "YOUR-TAVILY_API_KEY"
+os.environ["COHERE_API_KEY"] = "YOUR-COHERE_API_KEY"
+os.environ["GOOGLE_API_KEY"] = "YOUR-OOGLE_API_KEY"
 
 
 # +
